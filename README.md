@@ -1,3 +1,3 @@
 # Remote-control-electric-boat
 
-https://drive.google.com/file/d/1FC37UCXKUlUsSFejqIlCsub44skvVrBA/view?usp=sharing
+I created an electric boat that could be controlled using a mobile app via Bluetooth. The materials used were Arduino, Bluetooth, 2 bilge pumps submersible, and recycled material.
